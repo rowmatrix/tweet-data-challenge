@@ -143,7 +143,7 @@ void writeFile(string filename, vector< map<string,int> >& tweetWordMap)
 int main(int argc, char* argv[]) 
 {
     if(argc < 3) {
-        cerr << "Usage: ./words_tweeted in_filename out_filename" << endl;
+        cerr << "Usage: ./median_unique in_filename out_filename" << endl;
         return 1;
     }
 
