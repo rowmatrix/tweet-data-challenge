@@ -1,4 +1,21 @@
-# Data Insight Engineering - Coding Challenge
-* OS: Linux Ubuntu 12.04 LTS
-* C++ Compiler: g++ (Ubuntu 4.8.1-2ubuntu1~12.04) 4.8.1
-* GNU bash, version 4.2.25(1)-release (x86_64-pc-linux-gnu)
+#Tweet Data Engineering Challenge
+- Calculates number of times a word has been tweeted and
+- median number of unique words per tweet
+
+### Todo
+- Refactor and organize code
+- Optimize run time by creating specific data structures/classes
+- Add test cases
+
+### How to run
+- Clone git repository onto local machine
+- On command line/prompt/terminal type and run 
+
+```bash 
+    run.sh
+```
+
+- Check results in ```tweet_output/``` folder.
+- ```f1.txt``` stores number of times a word has been tweeted
+- ```f2.txt``` stores median number of unique words per tweet
+- ```tweets.txt``` sample input file with three tweets
