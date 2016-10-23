@@ -77,7 +77,7 @@ wang,                           1
 xia                             1
 ```
 
-Urls and hastags are consider words as well. 
+Urls and hashtags are consider words as well. 
 And ```f2.txt``` contains a new running median on each line:
 
 ```
